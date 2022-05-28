@@ -1,2 +1,4 @@
-# dio-desafio-github
-Desafio de projeto Bootcamp DIO Git/Github
+# Desafio Git/Github Bootcamp FullStack DIO
+
+> Repositório do Desafio de Projeto
+
